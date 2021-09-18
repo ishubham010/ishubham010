@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ishubham010@gmail.com**
 
-- ⚡ Fun fact **I look up to yes, I can.**
+- ⚡ Fun fact **I look up to say yes, I can.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
