@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Choubey</h1>
 <h3 align="center">On a mission to make software development easy and fun.</h3>
 
-- 🌱 I’m currently learning **more about reactjs, AI**
-
 - 📫 How to reach me **ishubham010@gmail.com**
 
 - ⚡ Fun fact **I look up to say yes, I can.**
